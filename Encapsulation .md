@@ -42,7 +42,8 @@ rect.print_values()
 
 ```
 ## Output
-! [image](https://github.com/user-attachments/assets/0951d4d1-ba8f-4705-a10e-1d25d10cfa2d)
+![image](https://github.com/user-attachments/assets/d5583198-646b-4160-8bc0-1a2802188e0e)
+
 
 ## Result
 Thus, the program is executed successfully.
